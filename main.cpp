@@ -2,6 +2,7 @@
 
 int main(void) {
 	printf("前村康生が変更を加えました");
+	printf("前村のブランチにのみ変更ができているかの確認をします");
 	int a,b;
 	int c;
 	printf("数字を1つ入力してください");

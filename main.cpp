@@ -7,7 +7,7 @@ int main(void) {
 	printf("”š‚ğ‚à‚¤1‚Â“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
 	scanf_s("%d", &b);
 	printf("”š‚ğ‚à‚¤1‚Â“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
-	scanf_s("%d", &c);
+	scanf_s("%d", &m);
 	printf("“ü—Í‚³‚ê‚½”š‚Ì‡Œv‚Í‚Í%d‚Å‚·", a+b+c);
 	return (0);
 }

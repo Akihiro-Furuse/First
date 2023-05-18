@@ -2,6 +2,7 @@
 
 int main(void) {
 	printf("‘O‘ºN¶‚ª•ÏX‚ğ‰Á‚¦‚Ü‚µ‚½");
+	printf("¬“‡‚ªQ‰Á‚µ‚Ü‚µ‚½");
 	int a,b;
 	int c,d;
 	printf("”š‚ğ1‚Â“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
